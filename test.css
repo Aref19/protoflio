@@ -8,7 +8,7 @@
 
 body{
     font-family: sans-serif;
-    height: 10000px;
+    height: 3000px;
 }
 .navbar .navbar-nav .nav-link{
     color:white;
@@ -103,3 +103,22 @@ align-items: center;
       .dropdown:hover .dropdown-content {
         display: block;
       }
+
+    #uni{
+        background-color: var(--dark-color);
+        color:white;
+        
+        
+        
+    }
+    .navbar .navbar-toggler{
+        color: white;
+        border-color: white;
+    }
+    #info{
+        font-family: serif;
+    }
+
+    #thematoypic{
+        font-family: serif;
+    }
